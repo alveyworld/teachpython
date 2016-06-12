@@ -1,9 +1,6 @@
 # teachpython  
 Resources for teaching computer programming with the Python programming language  
   
-# teachpython  
-Resources for teaching computer programming with the Python programming language  
-  
   
 Teaching Python - Summer Workshop 2016  
   
