@@ -5,10 +5,10 @@ Resources for teaching computer programming with the Python programming language
 Teaching Python - Summer Workshop 2016
 
 Goals:
-Answer the question “why teach python” 
-Learn to personally program in python 
-Collect strategies and resources for teaching students 
-Have a little fun 
+Answer the question “why teach python”  
+Learn to personally program in python  
+Collect strategies and resources for teaching students  
+Have a little fun  
 
 Daily schedule
 
