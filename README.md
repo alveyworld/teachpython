@@ -66,7 +66,7 @@ Day 3: -------------------------------------------------------------------------
   
   
 8:00 am  
-Quizzes 5, 6, 7, 8  
+Quizzes 6, 7, 8, 9, 10 
 9:00 am  
 High Low game  
 10:00 am  
@@ -88,11 +88,11 @@ Day 4: -------------------------------------------------------------------------
   
   
 8:00 am  
-Quizzes 9, 10, 11  
+Quizzes 11, 12, 13, 14  
 9:00 am  
 Encryption  
 10:00 am  
-Pythontutor, run examples  
+Daily code practice 
 11:00 am  
 Pygame arcade game book  
 12:00 pm  
@@ -100,25 +100,9 @@ Lunch Time
 1:00 pm  
 Arcade book chapter 5  
 2:00 pm  
-Invent with python book ch 4  
+Curtis examples
 3:00 pm  
 Tic Tac Toe game  
+Review quizzes and assignments resources
   
-  
-Day 5: ------------------------------------------------------------------------------------------------------------  
-8:00 am  
-Quizzes 12, 13, 14  
-9:00 am  
-Virtual Pet Game  
-10:00 am  
-Curtis examples  
-11:00 am  
-Memory game  
-12:00 pm  
-Lunch Time  
-1:00 pm  
-Daily code practice  
-2:00 pm  
-Review quizzes and assignments resources  
-3:00 pm  
 Bubbman game, farewells  
